@@ -1,6 +1,6 @@
 ## Hi I'm Nikhil  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi, I'm Nikhil Kumar ardor on AWS to do hands-on AWS services and died doing the coding. Always exploring and learning new technologies. :heart:
+Hi, I'm Nikhil Kumar ardor to do hands-on on AWS services and died doing the coding. Always exploring and learning new skills. :heart:
 
 :mailbox: Reach me out!
 
