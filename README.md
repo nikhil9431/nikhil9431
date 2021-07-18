@@ -28,8 +28,6 @@ Hi, I'm Nikhil Kumar ardor on AWS to do hands-on AWS services and died doing the
 ![nikhil9431's github stats](https://github-readme-stats.vercel.app/api?username=nikhil9431&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
-#### Contribution activity
-  <img src="https://github.com/nikhil9431/nikhil9431/raw/output/github-contribution-grid-snake.svg"
-alt="snake">
+
 
 
